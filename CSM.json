@@ -1,0 +1,29 @@
+{
+  "title": "Chainsaw Man",
+  "description": "",
+  "artist": "Tatsuki Fujimoto",
+  "author": "Tatsuki Fujimoto",
+  "cover": "https://preview.redd.it/y21tub1ve7t41.png?auto=webp&s=30b6ff172d4bf15588b6e0821a915cea038819b1",
+  "chapters": {
+    "99": {
+      "title": "99",
+      "volume": "12",
+      "last_updated": "1659430430",
+      "groups": {
+        "AxelRozumari": [
+          "https://imgur.com/a/4XdUZDk"
+        ]
+      }
+    },
+    "100": {
+      "title": "100",
+      "volume": "12",
+      "last_updated": "1659430526",
+      "groups": {
+        "AxelRozumari": [
+          "https://imgur.com/a/VbFpQe4"
+        ]
+      }
+    }
+  }
+}
