@@ -6,13 +6,11 @@
   "cover": "https://preview.redd.it/y21tub1ve7t41.png?auto=webp&s=30b6ff172d4bf15588b6e0821a915cea038819b1",
   "chapters": {
     "99": {
-      "title": "99",
+      "title": "Dos pájaros",
       "volume": "12",
       "last_updated": "1659430430",
       "groups": {
-        "AxelRozumari": [
-          "https://imgur.com/a/4XdUZDk"
-        ]
+        "AxelRozumari": "/proxy/api/imgur/chapter/4XdUZDk"
       }
     },
     "100": {
@@ -20,9 +18,7 @@
       "volume": "12",
       "last_updated": "1659430526",
       "groups": {
-        "AxelRozumari": [
-          "https://imgur.com/a/VbFpQe4"
-        ]
+        "AxelRozumari": "/proxy/api/imgur/chapter/VbFpQe4"
       }
     }
   }
