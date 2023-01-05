@@ -1,8 +1,8 @@
 {
   "title": "Arknights: Rhodes Kitchen - Tidbits",
   "description": "Esta es una colección de archivos sobre la vida diaria de los operadores de Rhodes Island en relación con la comida. Que los olores de la cocina calienten nuestros corazones y nos guíen fielmente en el camino que tenemos por delante. El pasado se ha ido, es bueno por ahora.",
-  "artist": "Hypergryph",
-  "author": "BAKANOKO",
+  "artist": "BAKANOKO",
+  "author": "Hypergryph",
   "cover": "https://mangadex.org/covers/7431ff7d-ad63-4831-bd1e-e63aef2da6bc/6e9cc0ff-2ea9-448e-b3c8-7085fb4f6d1e.jpg",
   "chapters": {
     "1": {
@@ -11,6 +11,14 @@
       "last_updated": "1671758947",
       "groups": {
         "Aku Rozumari": "/proxy/api/imgur/chapter/vcomD4X"
+      }
+    },
+    "2": {
+      "title": "Menú 2: Pancake tacos para desayunar y el chef #1 de Kjerag",
+      "volume": "1",
+      "last_updated": "1672895327",
+      "groups": {
+        "Aku Rozumari": "/proxy/api/imgur/chapter/LcqfUJB"
       }
     }
   }
