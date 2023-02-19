@@ -1,0 +1,17 @@
+{
+  "title": "Fire Emblem Engage",
+  "description": "Manga de Fire Emblem Engage",
+  "artist": "Yuo Kazuro",
+  "author": "NINTENDO, Inteligent Systems",
+  "cover": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000058802/88b8db494399e659522af36331b7f588439bc4312af5c0ee57035c063651ab4a",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1676843760",
+      "groups": {
+        "Axel Rozumari": "/proxy/api/imgur/chapter/6WoVbmr"
+      }
+    }
+  }
+}
