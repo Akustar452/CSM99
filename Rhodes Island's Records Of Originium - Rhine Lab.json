@@ -4,5 +4,14 @@
   "artist": "HYPERGRYPH",
   "author": "HYPERGRYPH",
   "cover": "https://i.imgur.com/uJTFnr0.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Un invitado no invitado",
+      "volume": "1",
+      "last_updated": "1680761258",
+      "groups": {
+        "Aku": "/proxy/api/imgur/chapter/RCtloHp"
+      }
+    }
+  }
 }
