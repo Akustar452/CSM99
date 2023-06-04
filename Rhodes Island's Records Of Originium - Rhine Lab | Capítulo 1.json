@@ -1,0 +1,41 @@
+{
+  "title": "Rhodes Island's Records Of Originium - Rhine Lab",
+  "description": "Ifrit descubre a una invitada inesperada a bordo de Rhodes Island, una niña llamada Darya. La pequeña forma de Darya proyecta una gran sombra sobre Ifrit, Silence, y Saria, evocando en ellas recuerdos de un pasado enterrado...",
+  "artist": "HYPERGRYPH",
+  "author": "HYPERGRYPH",
+  "cover": "https://i.imgur.com/uJTFnr0.jpg",
+  "chapters": {
+    "1": {
+      "title": "Un invitado no invitado",
+      "volume": "1",
+      "last_updated": "1685903678",
+      "groups": {
+        "Aku": "/proxy/api/imgur/chapter/RCtloHp"
+      }
+    },
+    "2": {
+      "title": "Tratamiento experimental",
+      "volume": "1",
+      "last_updated": "1685903709",
+      "groups": {
+        "Aku": "/proxy/api/imgur/chapter/fAtZL8x"
+      }
+    },
+    "3": {
+      "title": "Solo quiero algo como esto",
+      "volume": "1",
+      "last_updated": "1685903819",
+      "groups": {
+        "Aku": "/proxy/api/imgur/chapter/p9uOFvr"
+      }
+    },
+    "4": {
+      "title": "Como tú, como yo",
+      "volume": "1",
+      "last_updated": "1685903845",
+      "groups": {
+        "Aku": "/proxy/api/imgur/chapter/RbLEF6v"
+      }
+    }
+  }
+}
