@@ -4,5 +4,14 @@
   "artist": "HYPERGRYPH",
   "author": "HYPERGRYPH",
   "cover": "https://i.imgur.com/3SfBYWX.jpg",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "La Espada y el Escudo de Acero que Atraviesan la Negra Noche",
+      "volume": "1",
+      "last_updated": "1689465699",
+      "groups": {
+        "AKU": "/proxy/api/imgur/chapter/eQxTkWk"
+      }
+    }
+  }
 }
