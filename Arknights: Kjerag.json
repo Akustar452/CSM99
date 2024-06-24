@@ -1,0 +1,17 @@
+{
+  "title": "Arknights: Prelude Suite: Keen-Edge, Silver Blade",
+  "description": "Se desenvaina la hoja plateada y Karlan da sus primeros pasos. Una precuela de dos capítulos con Enciodes, Gnosis y Degenbrecher en una misión.",
+  "artist": "HYPERGRYPH",
+  "author": "HYPERGRYPH",
+  "cover": "https://mangadex.org/covers/87577ff0-3972-43a4-8289-52f7c3d9b2f8/bbcd9631-48e1-4d91-9e89-f81a64e7bc83.jpg",
+  "chapters": {
+    "1": {
+      "title": "Parte 1",
+      "volume": "1",
+      "last_updated": "1719268681",
+      "groups": {
+        "LazybonesAku": "/proxy/api/mangadex/chapter/dee41a06-e186-436c-9137-ecdd0ad4898a"
+      }
+    }
+  }
+}
