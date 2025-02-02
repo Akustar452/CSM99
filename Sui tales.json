@@ -1,0 +1,17 @@
+{
+  "title": "Arknights: Cuentos de Sui",
+  "description": "Esto es algo más directo que la memoria.",
+  "artist": "HYPERGRYPH",
+  "author": "HYPERGRYPH",
+  "cover": "https://mangadex.org/covers/2d54d728-aef8-4a59-8080-753eaf50c0c0/396c0392-bb40-4a74-acb8-58273f295d97.jpg",
+  "chapters": {
+    "1": {
+      "title": "¿Quieres hacer una película?",
+      "volume": "0",
+      "last_updated": "1738538340",
+      "groups": {
+        "LazybonesAku": "/proxy/api/mangadex/chapter/ac4898eb-5c1d-40fe-b9de-ed2e9d82179f"
+      }
+    }
+  }
+}
