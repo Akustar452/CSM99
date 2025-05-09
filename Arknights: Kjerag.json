@@ -12,6 +12,14 @@
       "groups": {
         "LazybonesAku": "/proxy/api/mangadex/chapter/dee41a06-e186-436c-9137-ecdd0ad4898a"
       }
+    },
+    "2": {
+      "title": "Parte 2",
+      "volume": "1",
+      "last_updated": "1746779788",
+      "groups": {
+        "LazybonesAku": "/proxy/api/mangadex/chapter/4fb8815c-8d69-4585-915f-dca7f55a0470"
+      }
     }
   }
 }
