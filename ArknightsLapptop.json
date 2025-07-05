@@ -1,0 +1,17 @@
+{
+  "title": "Arknights Prelude Suite: Old Wounds",
+  "description": "Los colmillos rebeldes desafían el orden y el precio se paga con fuego furioso.",
+  "artist": "HYPERGRYPH",
+  "author": "HYPERGRYPH",
+  "cover": "https://pbs.twimg.com/media/GozM2zhbEAAKWto?format=jpg&name=orig",
+  "chapters": {
+    "1": {
+      "title": "Maceración",
+      "volume": "1",
+      "last_updated": "1751687630",
+      "groups": {
+        "LazybonesAku": "/proxy/api/mangadex/chapter/d7bf848c-4716-4a53-af57-2a8c24d1b48e"
+      }
+    }
+  }
+}
